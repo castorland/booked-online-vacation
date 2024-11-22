@@ -2,9 +2,9 @@
 /*
 * Plugin Name: Booked Online Vacation
 * Description: This plugin add functionality to Booked plugin to set vacation to online appointments.
-* Version: 1.0.0
+* Version: 1.1.0
 * Author: Gábor Hódos
-* Author URI: https://cv.hodos.me
+* Author URI: https://hodos.me
 * License: GPL2
 */
 
